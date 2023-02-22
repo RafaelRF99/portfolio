@@ -1,5 +1,6 @@
 import Banner from '../components/Banner'
 import NavBar from '../components/NavBar'
+import Sobre from '../components/Sobre'
 
 export default function Home() {
 
@@ -7,6 +8,7 @@ export default function Home() {
     <>
       <NavBar />
       <Banner />
+      <Sobre />
     </>
   )
 }
