@@ -5,9 +5,10 @@ export default function Banner() {
 
     return (
         <div className={styles.container}>
-            <Image className={styles.img} src="/img/Rafael.jpeg" alt='Rafael' width={180} height={180}/>
+            <Image className={styles.img} src="/img/Rafael.jpeg" alt='Rafael' width={180} height={180} 
+            priority={10 === 10}/>
             <h1 className={styles.title}>Rafael Ferreira</h1>
-            <h2 className={styles.sub_title}>Desenvolvedor Web</h2>
+            <h2 className={`${styles.sub_title} traco`}>Desenvolvedor Web</h2>
         </div>
     )
 }
