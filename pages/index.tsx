@@ -1,4 +1,5 @@
 import Banner from '../components/Banner'
+import Educacao from '../components/Educacao'
 import Experiencia from '../components/Experiencia'
 import NavBar from '../components/NavBar'
 import Sobre from '../components/Sobre'
@@ -10,7 +11,8 @@ export default function Home() {
       <NavBar />
       <Banner />
       <Sobre />
-      <Experiencia nome="Experiência"/>
+      <Experiencia nome="Experiência" />
+      <Educacao titulo="Educação" />
     </>
   )
 }
