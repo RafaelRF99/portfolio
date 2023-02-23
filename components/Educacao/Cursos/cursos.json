@@ -1,0 +1,54 @@
+[
+    {
+        "curso": "Node.js: API Rest com Express e MongoDB",
+        "escola": "Alura"
+    },
+    {
+        "curso": "React: lidando com arquivos estáticos",
+        "escola": "Alura"
+    },
+    {
+        "curso": "React: desenvolvendor com JavaScript",
+        "escola": "Alura"
+    },
+    {
+        "curso": "HTTP: Entendendo a web por baixo dos panos",
+        "escola": "Alura"
+    },
+    {
+        "curso": "JavaScript: programando a Orientação a Objetos",
+        "escola": "Alura"
+    },
+    {
+        "curso": "Angular 9: Essencial",
+        "escola": "Cod3r"
+    },
+    {
+        "curso": "Git e GitHub: repositório, commit e versões",
+        "escola": "Alura"
+    },
+    {
+        "curso": "JavaScript para Web: Crie páginas dinâmicas",
+        "escola": "Alura"
+    },
+    {
+        "curso": "JavaScript: explorando a linguagem",
+        "escola": "Alura"
+    },
+    {
+        "curso": "Lógica de programação I: crie programas com Javascript e HTML",
+        "escola": "Alura"
+    },
+    {
+        "curso": "Lógica de programação II: pratique com desenhos, animações e um jogo",
+        "escola": "Alura"
+    },
+    {
+        "curso": "Construindo páginas para internet com Bootstrap",
+        "escola": "DIO"
+    },
+    {
+        "curso": "Introdução a criação de websites com HTML5 e CSS3",
+        "escola": "DIO"
+    }
+]

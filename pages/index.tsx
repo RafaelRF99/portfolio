@@ -12,7 +12,7 @@ export default function Home() {
       <Banner />
       <Sobre />
       <Experiencia nome="Experiência" />
-      <Educacao titulo="Educação" />
+      <Educacao titulo="Formação" cursos="Cursos" />
     </>
   )
 }

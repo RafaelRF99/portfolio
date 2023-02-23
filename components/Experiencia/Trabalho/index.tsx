@@ -9,8 +9,8 @@ export default function Trabalho(props: TrabalhoProps) {
     const analista = props.analista
 
     function funcoes() {
-        return props.funcao.map(funcao => {
-            return <li>{funcao}</li>
+        return props.funcao.map((funcao, i) => {
+            return <li key={i}>{funcao}</li>
         })
     }
 
