@@ -1,0 +1,38 @@
+[
+    {
+        "curso": "HTML5",
+        "imagem": "HTML5.png"
+    },
+    {
+        "curso": "CSS3",
+        "imagem": "CSS3.png"
+    },
+    {
+        "curso": "BootsTrap",
+        "imagem": "BootsTrap.png"
+    },
+    {
+        "curso": "JavaScript",
+        "imagem": "JavaScript.png"
+    },
+    {
+        "curso": "Angular",
+        "imagem": "Angular.png"
+    },
+    {
+        "curso": "React",
+        "imagem": "React.png"
+    },
+    {
+        "curso": "Sass",
+        "imagem": "Sass.png"
+    },
+    {
+        "curso": "TypeScript",
+        "imagem": "TypeScript.png"
+    },
+    {
+        "curso": "NextJS",
+        "imagem": "NextJS.png"
+    }
+]
