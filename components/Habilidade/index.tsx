@@ -45,6 +45,8 @@ export default function Habilidade() {
                         priority={10 === 10} />
                 </div>
             </div>
+            <div className={styles.display}>
+            </div>
         </div>
     )
 }
