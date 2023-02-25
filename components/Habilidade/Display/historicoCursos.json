@@ -1,0 +1,74 @@
+[
+    {
+        "curso": "HTML5",
+        "outros": {
+            "topico1": "Primeiro contato foi em 2020 com tutoriais no Youtube.",
+            "topico2": "Em maio de 2021 descobri a plataforma DIO através de amigos.",
+            "topico3": "Estudei durante 5 meses HTML, depois comecei JavaScript"
+        }
+    },
+    {
+        "curso": "CSS3",
+        "outros": {
+            "topico1": "Primeiro contanto foi em 2020 juntamente com HTML.",
+            "topico2": "Fiz curso de CSS3 pela DIO e Alura",
+            "topico3": "Estudo e aprimoro todos os dias."
+        }
+    },
+    {
+        "curso": "BootsTrap",
+        "outros": {
+            "topico1": "Aprendi a utilizar o BootsTrap por vontade de evoluir",
+            "topico2": "Agiliza demais em projetos pelo fato de ter muito conteúdo pronto já.",
+            "topico3": "Detalhes pequenos que ajudam a ter uma solução rápida."
+        }
+    },
+    {
+        "curso": "JavaScript",
+        "outros": {
+            "topico1": "Comecei a aprender para deixar o site mais dinâmico.",
+            "topico2": "Foi um dos que mais estudei por ser mais complexo e a base para outros.",
+            "topico3": "Comecei a estudar em Dez de 2021 com Youtube, porém fui fazer curso em 2022."
+        }
+    },
+    {
+        "curso": "Angular",
+        "outros": {
+            "topico1": "Comecei a estudar pelo site da Cod3r",
+            "topico2": "Aprendi muito e um pouco de TypeScript",
+            "topico3": "Aprendi com projeto CRUD."
+        }
+    },
+    {
+        "curso": "ReactJS",
+        "outros": {
+            "topico1": "Comecei a estudar no Youtube em Agos de 2022.",
+            "topico2": "Aprendi com JavaScript e TypeScrit pela Alura.",
+            "topico3": "Estudo até hoje (Linguagem principal)."
+        }
+    },
+    {
+        "curso": "Sass",
+        "outros": {
+            "topico1": "Comecei a utilização do Sass junto com o React pela Alura.",
+            "topico2": "Vantagem que se comporta como uma linguagem de programação mesmo.",
+            "topico3": "Utilizo em alguns projetos."
+        }
+    },
+    {
+        "curso": "TypeScript",
+        "outros": {
+            "topico1": "Comecei a estudar pela Alura.",
+            "topico2": "Utilizo na grande maioria dos projetos atualmente.",
+            "topico3": "Estudo até hoje para ser aprimorando."
+        }
+    },
+    {
+        "curso": "NextJS",
+        "outros": {
+            "topico1": "Comecei a estudar pela Cod3r em 2023",
+            "topico2": "Melhor coisa que fiz até hoje, NextJS auxília em todos os pontos.",
+            "topico3": "Estudando atualmente"
+        }
+    }
+]
