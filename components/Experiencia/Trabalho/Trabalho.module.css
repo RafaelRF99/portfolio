@@ -38,3 +38,9 @@
 .funcao li {
     padding: 2px 0;
 }
+
+@media (max-width: 760px) {
+    .title {
+        width: 360px;
+    }
+}
