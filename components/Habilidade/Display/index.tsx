@@ -9,11 +9,11 @@ interface DisplayProps {
 export default function Display(props: DisplayProps) {
 
     function descricao() {
-        return historico.map(curso => {
+        return historico.map((curso, i) => {
             let valorCurso = curso.curso
             if (props.curso === valorCurso) {
                 return (
-                    <ul className={styles.lista}>
+                    <ul key={i} className={styles.lista}>
                         <li>{curso.outros.topico1}</li>
                         <li>{curso.outros.topico2}</li>
                         <li>{curso.outros.topico3}</li>
