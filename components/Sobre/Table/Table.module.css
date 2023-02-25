@@ -18,3 +18,26 @@
 .table thead {
     margin-top: 15px;
 }
+
+@media (max-width: 600px) {
+
+    .table {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width: 490px) {
+
+    .table {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .table tr {
+        font-size: 13px;
+    }
+}
