@@ -5,4 +5,7 @@
     color: #FFF;
     border-bottom: 20px;
     box-shadow: 0 6px 30px #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
