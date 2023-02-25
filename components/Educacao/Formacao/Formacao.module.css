@@ -11,6 +11,7 @@
     font-family: 'Tilt Warp', cursive;
     background-color: #00334D;
     color: #FFF;
+    min-width: 230px;
     width: 280px;
     display: flex;
     flex-direction: column;
@@ -34,9 +35,49 @@
     font-weight: bold;
     display: inline-block;
     border-bottom: 1px solid #000;
+    margin-right: 20px;
 }
 
 .curso span {
     color: #434343;
     font-size: 20px;
+}
+
+
+@media (max-width: 826px) {
+
+    .curso {
+        padding: 15px;
+    }
+    
+    .curso h1 {
+        display: flex;
+        border: none;
+    }
+}
+
+@media (max-width: 800px) {
+    .container {
+        padding: 0%;
+        max-width: 250px;
+        margin: 0 50%;
+        min-height: 200px;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .categoria {
+        flex-grow: 1;
+        max-width: 250px;
+        padding: 70px 0;
+    }
+    
+    .curso {
+        max-width: 250px;
+        flex-grow: 1;
+        margin-left: 2px;
+        border-bottom: 1px solid #0005;
+        margin-bottom: 20px;
+    }
 }
