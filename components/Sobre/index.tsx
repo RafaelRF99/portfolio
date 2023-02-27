@@ -25,7 +25,7 @@ export default function Sobre() {
                     <Table pergunta='Data de Nascimento:' resposta='15/01/1999' />
                     <Table pergunta='Email:' resposta='rafaelfferreira99@hotmail.com' />
                     <Table pergunta='Celular:' resposta='(19) 99825-5728' />
-                    <Table pergunta='Linguagem:' resposta='Inglês Básico para leitura' />
+                    <Table pergunta='Idiomas:' resposta='Português Nativo' resposta2='Inglês Básico para leitura' />
                 </div>
             </section>
         </div>

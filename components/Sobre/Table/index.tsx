@@ -3,6 +3,7 @@ import styles from './Table.module.css'
 interface TableProps {
     pergunta: string
     resposta: string
+    resposta2?: string
 }
 
 export default function Table(props: TableProps) {
@@ -17,6 +18,7 @@ export default function Table(props: TableProps) {
                 <thead>
                     <tr>
                         <td>{props.resposta}</td>
+                        <td>{props.resposta2}</td>
                     </tr>
                 </thead>
             </table>

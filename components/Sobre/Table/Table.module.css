@@ -37,6 +37,10 @@
         flex-wrap: wrap;
     }
 
+    .table thead td{
+        display: flex;
+    }
+
     .table tr {
         font-size: 13px;
     }
