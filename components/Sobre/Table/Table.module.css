@@ -19,12 +19,20 @@
     margin-top: 15px;
 }
 
+.table thead td{
+    display: flex;
+}
+
 @media (max-width: 600px) {
 
     .table {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
+    }
+
+    .table thead td{
+        display: flex;
     }
 }
 
