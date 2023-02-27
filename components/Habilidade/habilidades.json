@@ -1,4 +1,33 @@
 [
+    
+    {
+        "curso": "NextJS",
+        "imagem": "NextJS.png"
+    },
+    {
+        "curso": "ReactJS",
+        "imagem": "React.png"
+    },
+    {
+        "curso": "TypeScript",
+        "imagem": "TypeScript.png"
+    },
+    {
+        "curso": "Sass",
+        "imagem": "Sass.png"
+    },
+    {
+        "curso": "JavaScript",
+        "imagem": "JavaScript.png"
+    },
+    {
+        "curso": "BootsTrap",
+        "imagem": "BootsTrap.png"
+    },
+    {
+        "curso": "Angular",
+        "imagem": "Angular.png"
+    },
     {
         "curso": "HTML5",
         "imagem": "HTML5.png"
@@ -6,33 +35,5 @@
     {
         "curso": "CSS3",
         "imagem": "CSS3.png"
-    },
-    {
-        "curso": "BootsTrap",
-        "imagem": "BootsTrap.png"
-    },
-    {
-        "curso": "JavaScript",
-        "imagem": "JavaScript.png"
-    },
-    {
-        "curso": "Angular",
-        "imagem": "Angular.png"
-    },
-    {
-        "curso": "ReactJS",
-        "imagem": "React.png"
-    },
-    {
-        "curso": "Sass",
-        "imagem": "Sass.png"
-    },
-    {
-        "curso": "TypeScript",
-        "imagem": "TypeScript.png"
-    },
-    {
-        "curso": "NextJS",
-        "imagem": "NextJS.png"
     }
 ]
