@@ -1,0 +1,27 @@
+[
+    {
+        "imagem": "thumb_port.png",
+        "descricao": "Portfólio",
+        "url": "https://rafaelferreira99.vercel.app/"
+    },
+    {
+        "imagem": "thumb_pizza.png",
+        "descricao": "Pizzaria La Conquista",
+        "url": "https://la-conquista.vercel.app/"
+    },
+    {
+        "imagem": "thumb_montyHall.png",
+        "descricao": "Monty Hall",
+        "url": "https://monty-hall-mauve.vercel.app/"
+    },
+    {
+        "imagem": "thumb_organo.png",
+        "descricao": "Organo",
+        "url": "https://organo-ts.vercel.app/"
+    },
+    {
+        "imagem": "thumb_megaSena.png",
+        "descricao": "Mega Sena",
+        "url": "https://mega-sena-eight.vercel.app/"
+    }
+]
