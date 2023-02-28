@@ -25,7 +25,7 @@ export default function Slider() {
     }
 
     return (
-        <Swiper className={styles.container} slidesPerView={3} >
+        <Swiper slidesPerView={3} >
             {render()}
         </Swiper>
     )

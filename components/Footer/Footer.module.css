@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    background-color: #0001;
+}
+
+.contato {
+    text-align: center;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+}
+
+.contato span {
+    padding-left: 10px;
+}
+
+.contato a {
+    padding: 5px 10px;
+}
+
+.contato a:hover {
+    scale: 1.09;
+    color: #00334D;
+}
+
+.title {
+    font-family: var(--letra);
+    font-size: 23px;
+}
+
+.honra {
+    font-size: 15px;
+    color: #000;
+    text-align: center;
+    margin: 7px 0;
+}
