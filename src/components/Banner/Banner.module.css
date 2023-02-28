@@ -10,7 +10,7 @@
     box-shadow: 0 6px 30px #000;
 
     /* BACKGROUND */
-    background-image: url(../../public/img/Banner.png);
+    background-image: url(../../../public/img/Banner.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;

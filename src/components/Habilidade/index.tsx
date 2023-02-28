@@ -13,7 +13,7 @@ export default function Habilidade() {
         return habilidades.map(hab => {
             return (
                 <div key={hab.curso} onClick={clicado} >
-                    <Image src={require('../../public/icons/' + hab.imagem)} alt='HTML5'
+                    <Image src={require('../../../public/icons/' + hab.imagem)} alt='HTML5'
                         width={tamanho} height={tamanho}
                         priority={10 === 10} />
                 </div>

@@ -16,7 +16,7 @@ export default function Slider() {
             return (
                 <SwiperSlide key={imagem.descricao} className={styles.centralizacao} >
                     <a href={imagem.url} target="_blank" >
-                        <Image className={styles.slider} src={require('../../../public/img/' + imagem.imagem)}
+                        <Image className={styles.slider} src={require('../../../../public/img/' + imagem.imagem)}
                             alt={imagem.descricao} />
                     </a>
                 </SwiperSlide>
