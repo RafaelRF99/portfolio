@@ -6,6 +6,7 @@ import styles from './Slider.module.css'
 // COMPONETS
 import Image from 'next/image';
 import imagens from './imagens.json'
+import Link from 'next/link';
 
 export default function Slider() {
     const comprimento = 420
@@ -15,10 +16,10 @@ export default function Slider() {
         return imagens.map(imagem => {
             return (
                 <SwiperSlide key={imagem.descricao} className={styles.centralizacao} >
-                    <a href={imagem.url} target="_blank" >
+                    <Link passHref href={imagem.url} rel="noreferrer" target="_blank" >
                         <Image className={styles.slider} src={require('../../../../public/img/' + imagem.imagem)}
                             alt={imagem.descricao} />
-                    </a>
+                    </Link>
                 </SwiperSlide>
             )
         })
