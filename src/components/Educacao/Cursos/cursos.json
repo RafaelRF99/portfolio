@@ -1,5 +1,17 @@
 [
     {
+        "curso": "Node.js: continue seu projeto full stack criando uma API com Express",
+        "escola": "Alura"
+    },
+    {
+        "curso": "React e Node.js: consumindo APIs no React no projeto full stack",
+        "escola": "Alura"
+    },
+    {
+        "curso": "MongoDB: Conhecendo um bando de dados NoSQL",
+        "escola": "Alura"
+    },
+    {
         "curso": "Node.js: API Rest com Express e MongoDB",
         "escola": "Alura"
     },
