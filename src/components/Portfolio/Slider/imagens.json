@@ -23,5 +23,10 @@
         "imagem": "thumb_megaSena.png",
         "descricao": "Mega Sena",
         "url": "https://mega-sena-eight.vercel.app/"
+    },
+    {
+        "imagem": "thumb_next-js-autenticacao-fire-base.png",
+        "descricao": "FireBase",
+        "url": "https://next-js-autenticacao-fire-base.vercel.app/autenticacao"
     }
 ]
