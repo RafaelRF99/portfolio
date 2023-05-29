@@ -12,7 +12,7 @@ export default function Layout() {
     return (
         <>
             <Head>
-                <link rel="stylesheet" href="/icons/Angular.png" />
+                <link rel="icon" type="image/png" href="/logo/tecnologia.png" />
                 <title>Rafael Ferreira</title>
             </Head>
             <main>
