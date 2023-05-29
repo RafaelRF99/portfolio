@@ -59,8 +59,8 @@
         "curso": "TypeScript",
         "outros": {
             "topico1": "Comecei a estudar pela Alura.",
-            "topico2": "Utilizo na grande maioria dos projetos atualmente.",
-            "topico3": "Estudo até hoje para sempre estar aprimorando."
+            "topico2": "Previne errros que aconteceriam se fosse em JS.",
+            "topico3": "Utilizo em todos os projetos atualmente."
         }
     },
     {
@@ -69,6 +69,14 @@
             "topico1": "Comecei a estudar pela Cod3r em 2023.",
             "topico2": "Sempre que possivel prefiro a utilização do NextJS por auxíliar em muito pontos.",
             "topico3": "Estudando atualmente (portfólio em NextJS)."
+        }
+    },
+    {
+        "curso": "FireBase",
+        "outros": {
+            "topico1": "Comecei a estudar pela Cod3r e estou me aprofundando mais.",
+            "topico2": "Ferramenta de extrema importância para autenticação.",
+            "topico3": "Estudando atualmente."
         }
     }
 ]

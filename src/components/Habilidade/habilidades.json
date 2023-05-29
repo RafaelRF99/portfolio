@@ -35,5 +35,9 @@
     {
         "curso": "CSS3",
         "imagem": "CSS3.png"
+    },
+    {
+        "curso": "FireBase",
+        "imagem": "FireBase.png"
     }
 ]
