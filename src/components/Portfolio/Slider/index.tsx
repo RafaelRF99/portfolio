@@ -9,8 +9,6 @@ import imagens from './imagens.json'
 import Link from 'next/link';
 
 export default function Slider() {
-    const comprimento = 420
-    const altura = 300
 
     function render() {
         return imagens.map(imagem => {
