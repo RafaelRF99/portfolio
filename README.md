@@ -13,5 +13,7 @@ npm i
 > Baixar icones: https://www.svgrepo.com/
 > React Slick
 
+## Projeto Vercel
+https://vercel.com/rafaelrf99/portfolio
 
 ### Desenvolvido por Rafael Ferreira
