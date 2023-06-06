@@ -33,5 +33,10 @@
         "imagem": "thumb_agenciaRaffe.png",
         "descricao": "Agência Raffe",
         "url": "https://agencai-raffe.vercel.app/"
+    },
+    {
+        "imagem": "thumb_gunzbank.png",
+        "descricao": "GunzBank",
+        "url": "https://gunz-bank.vercel.app/"
     }
 ]
