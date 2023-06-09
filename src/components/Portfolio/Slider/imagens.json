@@ -38,5 +38,10 @@
         "imagem": "thumb_gunzbank.png",
         "descricao": "GunzBank",
         "url": "https://gunz-bank.vercel.app/"
+    },
+    {
+        "imagem": "thumb_pokemon.png",
+        "descricao": "Pokemon",
+        "url": "https://pokemon-delta-mauve.vercel.app/"
     }
 ]
