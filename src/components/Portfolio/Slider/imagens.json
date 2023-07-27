@@ -43,5 +43,10 @@
         "imagem": "thumb_pokemon.png",
         "descricao": "Pokemon",
         "url": "https://pokemon-delta-mauve.vercel.app/"
+    },
+    {
+        "imagem": "thumb_cronometro.png",
+        "descricao": "Cronômetro",
+        "url": "https://cronometro-one-theta.vercel.app/"
     }
 ]
