@@ -48,5 +48,10 @@
         "imagem": "thumb_cronometro.png",
         "descricao": "Cronômetro",
         "url": "https://cronometro-one-theta.vercel.app/"
+    },
+    {
+        "imagem": "thumb_smallAdventure.png",
+        "descricao": "Small Adventure",
+        "url": "https://smalladventure.vercel.app/"
     }
 ]
