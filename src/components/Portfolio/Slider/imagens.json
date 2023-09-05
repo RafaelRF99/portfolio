@@ -53,5 +53,10 @@
         "imagem": "thumb_smallAdventure.png",
         "descricao": "Small Adventure",
         "url": "https://smalladventure.vercel.app/"
+    },
+    {
+        "imagem": "thumb_chuckNorris.png",
+        "descricao": "Chuck Norris",
+        "url": "https://chuck-norris-rafaelrf99.vercel.app/"
     }
 ]
