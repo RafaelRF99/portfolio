@@ -7,6 +7,10 @@ Instalar dependencias
 ```bash
 npm i
 ```
+Iniciar projeto
+```bash
+npm run dev
+```
 
 ## Utilizado:
 > Fontes: https://fonts.google.com/
