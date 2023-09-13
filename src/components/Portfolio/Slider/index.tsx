@@ -11,7 +11,8 @@ import Link from 'next/link';
 export default function Slider() {
 
     function render() {
-        return imagens.map(imagem => {
+        const reversedArray = [...imagens].reverse();
+        return reversedArray.map(imagem => {
             return (
                 <SwiperSlide key={imagem.descricao} className={styles.centralizacao} >
                     <Link passHref href={imagem.url} rel="noreferrer" target="_blank" >

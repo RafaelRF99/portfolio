@@ -51,8 +51,8 @@
         "curso": "Sass",
         "outros": {
             "topico1": "Comecei a utilização do Sass junto com o React pela Alura.",
-            "topico2": "Vantagem que se comporta como uma linguagem de programação mesmo.",
-            "topico3": "Utilizo em alguns projetos."
+            "topico2": "A vantagem é que fica algo mais organizado.",
+            "topico3": "Utilizo em praticamente todos os projetos."
         }
     },
     {
@@ -77,6 +77,22 @@
             "topico1": "Comecei a estudar pela Cod3r e estou me aprofundando mais.",
             "topico2": "Ferramenta de extrema importância para autenticação.",
             "topico3": "Estudando atualmente."
+        }
+    },
+    {
+        "curso": "TailwindCSS",
+        "outros": {
+            "topico1": "Utilizo em alguns projetos para desenvolvimento rápido.",
+            "topico2": "Questão de performance é excelente.",
+            "topico3": "Aprendi no curso de NextJS na cod3r."
+        }
+    },
+    {
+        "curso": "Redux",
+        "outros": {
+            "topico1": "Estou estudando com causa da sua importância no código.",
+            "topico2": "Gerenciar e centralizar o estado de algo.",
+            "topico3": "Fazer uma depuração é mais fácil."
         }
     }
 ]
