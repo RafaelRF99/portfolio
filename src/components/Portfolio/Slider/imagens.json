@@ -63,5 +63,10 @@
         "imagem": "thumb_react-hook-form.png",
         "descricao": "React Hook Form",
         "url": "https://react-hook-form-rafaelrf99.vercel.app/"
+    },
+    {
+        "imagem": "thumb_darley-john.png",
+        "descricao": "Darley John",
+        "url": "https://darley-john.vercel.app/"
     }
 ]
