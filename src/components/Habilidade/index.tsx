@@ -1,8 +1,13 @@
-import Image from 'next/image'
-import { useState } from 'react'
-import Display from './Display'
 import styles from './Habilidade.module.css'
+import { Titles } from '../../styles/styled'
+
+import Image from 'next/image'
+
+import { useState } from 'react'
+
 import habilidades from './habilidades.json'
+
+import Display from './Display'
 
 export default function Habilidade() {
     const tamanho = 100
@@ -23,13 +28,13 @@ export default function Habilidade() {
                 setStatus(true)
                 let valorCurso = hab.curso
                 return setCursos(valorCurso)
-            }            
+            }
         })
     }
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>Habilidades</h1>
+            <Titles>Habilidades</Titles>
             <div className={styles.icons}>
                 {render()}
             </div>

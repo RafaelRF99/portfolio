@@ -2,12 +2,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 10px;
-}
-
-.title {
-    font-family: var(--letra);
-    margin: 20px 0;
 }
 
 .icons {

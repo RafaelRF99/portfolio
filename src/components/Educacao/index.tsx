@@ -1,3 +1,4 @@
+import { Titles } from '../../styles/styled'
 import Cursos from './Cursos'
 import styles from './Educacao.module.css'
 import Formacao from './Formacao'
@@ -24,12 +25,12 @@ export default function Educacao(props: EducacaoProps) {
     return (
         <div className={styles.container}>
             <div>
-                <h1 className={styles.title}>{props.titulo}</h1>
+                <Titles>{props.titulo}</Titles>
                 <Formacao nivel="Graduação" formacao={anhanguera} />
                 <Formacao nivel="Técnico" formacao={senai} />
             </div>
             <div>
-                <h1 className={styles.title}>{props.cursos}</h1>
+                <Titles>{props.cursos}</Titles>
                 <Cursos />
             </div>
         </div>

@@ -1,4 +1,6 @@
 import styles from './Experiencia.module.css'
+import { Titles } from '../../styles/styled'
+
 import Trabalho from './Trabalho'
 
 interface ExperienciaProps {
@@ -35,7 +37,7 @@ export default function Experiencia(props: ExperienciaProps) {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>{props.nome}</h1>
+            <Titles>{props.nome}</Titles>
             <Trabalho analista={analista} funcao={analistaFuncao} />
             <Trabalho analista={aprendiz} funcao={aprendizFuncao} />
         </div>
