@@ -45,6 +45,10 @@
 }
 
 @media (max-width: 460px) {
+    .container {
+        margin: 4rem 2rem;
+    }
+    
     .lista {
         padding: 0%;
     }
