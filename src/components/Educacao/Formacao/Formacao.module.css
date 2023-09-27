@@ -5,6 +5,7 @@
     height: 200px;
     display: flex;
     box-shadow: 15px 10px 40px #0005;
+    background-color: var(--back-secundario);
 }
 
 .categoria {
@@ -21,7 +22,6 @@
 }
 
 .curso {
-    color: #000;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,12 +34,12 @@
     font-size: 30px;
     font-weight: bold;
     display: inline-block;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid var(--shadow);
     margin-right: 20px;
 }
 
 .curso span {
-    color: #434343;
+    color: var(--color-dark);
     font-size: 20px;
 }
 

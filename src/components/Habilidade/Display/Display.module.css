@@ -2,7 +2,7 @@
     height: 100%;
     min-height: 300px;
     margin: 25px;
-    background-color: #ececec;
+    background-color: var(--back-secundario);
     padding: 40px;
 }
 

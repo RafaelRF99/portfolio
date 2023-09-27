@@ -7,9 +7,9 @@
     font-family: 'Roboto', sans-serif;
     margin: 0 30px;
     padding: 35px;
-    background-color: #ebebebc8;
+    background-color: var(--back-secundario);
     border: none;
-    box-shadow: 0px 0px 30px #0004;
+    box-shadow: 0px 0px 30px var(--shadow);
 }
 
 .area {

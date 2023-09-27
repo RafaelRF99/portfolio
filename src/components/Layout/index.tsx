@@ -1,3 +1,7 @@
+import { useTheme } from "../../data/hooks/useTheme";
+
+import ThemeDark from "../../theme/ThemeDark";
+
 import Banner from "../Banner";
 import Educacao from "../Educacao";
 import Experiencia from "../Experiencia";
@@ -9,6 +13,8 @@ import NavBar from "../NavBar";
 import Footer from "../Footer";
 
 export default function Layout() {
+    const { theme } = useTheme()
+
     return (
         <>
             <Head>
@@ -16,6 +22,7 @@ export default function Layout() {
                 <title>Rafael Ferreira</title>
             </Head>
             <main>
+                {theme === 'dark' ? <ThemeDark /> : ''}
                 <NavBar />
                 <Banner />
                 <Sobre />
