@@ -1,142 +1,177 @@
 [
     {
         "curso": "Conhecendo e Instalando o Docker",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Formação React Developer",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": true
     },
     {
         "curso": "Dominando Conceitos e Ferramentas Avançadas do React",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Convertendo o Projeto de JavaScript para TypeScript",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Fundamentos do TypeScript",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Convenções e Qualidade de Código React",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Trabalhando Com Formulários no React",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Trabalhando Com Hooks Básicos",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Conceitos Fundamentais para React",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Criando o Seu Blog Pessoal Com Next.js",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Introdução ao Next.js",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Configuração de Ambiente React",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Estilização com Styled-Components",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "LifeCycle Hooks Angular",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Manipulando Estado e Consumindo APIs no React com Typescript",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Trabalhando com Componentes Angular",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Criando um Blog com Angular",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "React e Node.js_ consumindo APIs no React no projeto full stack",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "React Escrevendo Com Typescript",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Node.js: continue seu projeto full stack criando uma API com Express",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "React e Node.js: consumindo APIs no React no projeto full stack",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "MongoDB: Conhecendo um bando de dados NoSQL",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Node.js: API Rest com Express e MongoDB",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "React: lidando com arquivos estáticos",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "React: desenvolvendor com JavaScript",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "HTTP: Entendendo a web por baixo dos panos",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "JavaScript: programando a Orientação a Objetos",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Angular 9: Essencial",
-        "escola": "Cod3r"
+        "escola": "Cod3r",
+        "star": false
     },
     {
         "curso": "Git e GitHub: repositório, commit e versões",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "JavaScript para Web: Crie páginas dinâmicas",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "JavaScript: explorando a linguagem",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Lógica de programação I: crie programas com Javascript e HTML",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Lógica de programação II: pratique com desenhos, animações e um jogo",
-        "escola": "Alura"
+        "escola": "Alura",
+        "star": false
     },
     {
         "curso": "Construindo páginas para internet com Bootstrap",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     },
     {
         "curso": "Introdução a criação de websites com HTML5 e CSS3",
-        "escola": "DIO Digital Innovation One"
+        "escola": "DIO Digital Innovation One",
+        "star": false
     }
 ]

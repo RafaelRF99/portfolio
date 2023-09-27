@@ -18,6 +18,11 @@
     border-bottom: 1px solid rgba(164, 164, 164, 0.333);
 }
 
+.local {
+    display: flex;
+    justify-content: space-between;
+}
+
 .curso {
     font-size: 20px;
 }
