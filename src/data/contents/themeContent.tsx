@@ -18,7 +18,7 @@ export default function ThemeProvider({ children }: { children: ReactNode }) {
     }, [])
     
     function handleTheme() {
-        const newTheme = theme === '' ? 'light' : 'dark'
+        const newTheme = theme === '' || theme === 'dark' ? 'light' : 'dark'
         setTheme(newTheme);
         localStorage.setItem('theme', newTheme)
     }
