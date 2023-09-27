@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 .container {
+    max-height: 600px;
+    overflow-y: scroll;
+
     font-family: 'Roboto', sans-serif;
     margin: 0 30px;
     padding: 35px;
