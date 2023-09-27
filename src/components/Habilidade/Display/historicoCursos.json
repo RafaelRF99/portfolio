@@ -90,9 +90,17 @@
     {
         "curso": "Redux",
         "outros": {
-            "topico1": "Estou estudando com causa da sua importância no código.",
+            "topico1": "Estou estudando por causa da sua importância no código.",
             "topico2": "Gerenciar e centralizar o estado de algo.",
             "topico3": "Fazer uma depuração é mais fácil."
+        }
+    },
+    {
+        "curso": "Docker",
+        "outros": {
+            "topico1": "Estudando pela DIO devido a sua importância.",
+            "topico2": "A utilização dos containers ajudam muito no questão de versionamento.",
+            "topico3": "Em equipes grande a utilização é essencial para evitar conflitos ou bugs."
         }
     }
 ]

@@ -47,5 +47,9 @@
     {
         "curso": "Redux",
         "imagem": "Redux.png"
+    },
+    {
+        "curso": "Docker",
+        "imagem": "Docker.png"
     }
 ]
