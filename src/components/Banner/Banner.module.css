@@ -8,12 +8,6 @@
     user-select: none;
     border-bottom: 20px;
     box-shadow: 0 6px 30px #000;
-
-    /* BACKGROUND */
-    background-image: url(../../../public/img/Banner.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: cover;
 }   
 
 .img {
@@ -39,4 +33,18 @@
 .sub_title {
     font-size: 25px;
     margin-bottom: 30px;
+}
+
+.banner {
+    background-image: url(../../../public/img/Banner.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+.banner2 {
+    background-image: url(../../../public/img/Banner2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
 }
