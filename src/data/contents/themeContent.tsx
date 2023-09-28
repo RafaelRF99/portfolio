@@ -8,7 +8,7 @@ interface ThemeContextProps {
 export const ThemeContext = createContext<ThemeContextProps>(null!)
 
 export default function ThemeProvider({ children }: { children: ReactNode }) {
-    const [theme, setTheme] = useState('')
+    const [theme, setTheme] = useState('light')
     
     useEffect(() => {
         const temaSalvo = localStorage.getItem('theme')
@@ -18,7 +18,7 @@ export default function ThemeProvider({ children }: { children: ReactNode }) {
     }, [])
     
     function handleTheme() {
-        const newTheme = theme === '' || theme === 'dark' ? 'light' : 'dark'
+        const newTheme = theme === 'dark' ? 'light' : 'dark'
         setTheme(newTheme);
         localStorage.setItem('theme', newTheme)
     }
