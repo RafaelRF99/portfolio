@@ -36,14 +36,14 @@
 }
 
 .banner {
-    background-image: url(../../../public/img/Banner.png);
+    background-image: url(/img/Banner.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
 }
 
 .banner2 {
-    background-image: url(../../../public/img/Banner2.png);
+    background-image: url(/img/Banner2.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
