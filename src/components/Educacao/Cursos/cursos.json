@@ -1,5 +1,40 @@
 [
     {
+        "curso": "Versionamento de Código com Git e GitHub",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "TypeScript para angular",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "Trabalhando com Services no Angular",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "Trabalhando com Rotas no Angular",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "Single Page Application com Angular",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "Módulos Angular",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
+        "curso": "Fundamentos do Angular Framework",
+        "escola": "DIO Digital Innovation One",
+        "star": false
+    },
+    {
         "curso": "Conhecendo e Instalando o Docker",
         "escola": "DIO Digital Innovation One",
         "star": false
