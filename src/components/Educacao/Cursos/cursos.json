@@ -1,5 +1,10 @@
 [
     {
+        "curso": "Formação Angular Developer",
+        "escola": "DIO Digital Innovation One",
+        "star": true
+    },
+    {
         "curso": "Versionamento de Código com Git e GitHub",
         "escola": "DIO Digital Innovation One",
         "star": false
